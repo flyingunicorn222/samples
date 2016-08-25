@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "plnx": "0.0.9"
+    "plnx": "0.0.9",
+    "ta-lib": "^0.9.0"
   },
   "devDependencies": {},
   "scripts": {
